@@ -67,4 +67,14 @@ class DENumericalMethod:
 
     def compute(self, x0, y0, x_limit, step):
         raise NotImplementedError
+```
+
+## Dependencies
+
+This project requires the following software and libraries:
+
+- **Python** 3.7 or newer
+- **tkinter** — used for the graphical user interface  
+  *(included by default with most Python distributions)*
+- **matplotlib** — used for plotting and data visualization
 
